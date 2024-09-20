@@ -1,5 +1,7 @@
 # ToolpathConsistency
 
+[![License](https://img.shields.io/github/license/WangY18/ToolpathConsistency)](https://mit-license.org/)
+
 ## Introduction
 
 This repository contains the open-source <u>numerical benchmarks for testing the <mark>**consistency**</mark> of your given path smoothing or trajectory planning methods</u>. The consistency is a <mark>**surface-centric**</mark> evaluation that considers toolpaths and trajectories as a whole surface in CNC machining (specifically, single-point milling).
@@ -38,7 +40,7 @@ or in BiBTeX:
 }
 ```
 
-## How to use `ToolpathConsistency`
+## How to Use `ToolpathConsistency`
 
 Five benchmarks are provided in this repository:
 
@@ -58,3 +60,8 @@ Five benchmarks are provided in this repository:
 
 See `demo_*.m` and [our paper](https://doi.org/10.1016/j.rcim.2024.102873) for details.
 
+## Results in Demos
+
+![BencmarksSimulation_Curvature](https://github.com/user-attachments/assets/3c8f57a6-be86-4bfe-9b1b-0ee7080fcf69)
+
+<center>Fig. Results in demos.</center>
