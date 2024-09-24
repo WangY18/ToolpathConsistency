@@ -23,7 +23,7 @@ For the example shown in the following figure, we can see that some *single tool
 Please cite the following reference:
 
 ```
-Wang Y, Hu C, Li Z, et al. On the consistency of path smoothing and trajectory planning in CNC machining: a surface-centric evaluation[J]. Robotics and Computer-Integrated Manufacturing, 2024. (Accepted)
+Wang Y, Hu C, Li Z, et al. On the consistency of path smoothing and trajectory planning in CNC machining: a surface-centric evaluation[J]. Robotics and Computer-Integrated Manufacturing, 2025, 92: 102873.
 ```
 
 or in BiBTeX:
@@ -33,9 +33,9 @@ or in BiBTeX:
   title={On the consistency of path smoothing and trajectory planning in CNC machining: a surface-centric evaluation},
   author={Wang, Yunan and Hu, Chuxiong and and Li, Zeyang and He, Zhirui and Lin, Shiwen and Wang, Yushuo and Lin, Shize and Yu, Jichuan and Jin, Zhao and Zhu, Yu},
   journal={Robotics and Computer-Integrated Manufacturing},
-  volume={},
-  pages={},
-  year={2024},
+  volume={92},
+  pages={102873},
+  year={2025},
   publisher={Elsevier}
 }
 ```
